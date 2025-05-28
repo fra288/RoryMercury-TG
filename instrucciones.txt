@@ -1,4 +1,4 @@
-Hola soy Memo Chiko el creador de este repositorio, para evitar inconvenientes se recomienda eliminar todos los archivos .js que esten en las carpetas.
+Hola soy Memo Chiko el creador de este repositorio, para evitar inconvenientes se recomienda eliminar todos los archivos .js que esten en las carpetas y cambiar el token del bot, cámbialo con el que te dió BotFather.
 
 atte. Memo Chiko 
 Powered by Nightmoon Club
