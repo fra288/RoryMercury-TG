@@ -1,0 +1,5 @@
+[1.0.0] - 2025-05-26
+- Versión inicial del bot
+- Comandos básicos añadidos: /ping, /start, /menu, /owner
+- Sistema de economía y RPG funcionando
+- Integración con Jadibots y subbots

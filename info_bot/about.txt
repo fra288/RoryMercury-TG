@@ -1,0 +1,5 @@
+Nombre del Bot: Rory Mercury-TG
+Descripción: Super Telegram Bot OnlyTelegram
+Versión: 1.0.0
+Lenguaje: Python 3.x
+Librería: python-telegram-bot

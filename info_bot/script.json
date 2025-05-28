@@ -1,0 +1,7 @@
+{
+  "nombre": "Rory Mercury-TG",
+  "version": "1.0.0",
+  "descripcion": "Super Telegram Bot OnlyTelegram",
+  "autor": "Memo Chiko",
+  "libreria": "python-telegram-bot"
+}

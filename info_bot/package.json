@@ -1,0 +1,46 @@
+{
+  "bot": {
+    "name": "Rory Mercury-TG",
+    "version": "1.0.0",
+    "description": "Super Telegram Bot OnlyTelegram",
+    "language": "Python",
+    "bookshop": "python-telegram-bot",
+    "author": "Memo Chiko"
+  },
+  "dependencies": {
+	  "python-telegram-bot",
+	  "yt-dlp", 
+	  "gitpython", 
+	  "spotipy",
+	  "requests",
+	  "spotdl"
+	  "psutil", 
+	  "python-dateutil", 
+	  "ffmpeg-python"
+  },
+  "critic_commands": [
+    "fix",
+    "saveplugin",
+    "getplugin"
+  ],
+  "permissions_by_role": {
+    "owner": [
+      "saveplugin",
+      "getplugin",
+      "fix",
+      "soyop"
+    ],
+    "admin": [
+      "ban",
+      "kick",
+      "mute",
+      "warn"
+    ],
+    "user": [
+      "ping",
+      "start",
+      "menu",
+	  "funciones"
+    ]
+  }
+}

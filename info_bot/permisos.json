@@ -1,0 +1,12 @@
+{
+  "roles": {
+    "owner": ["saveplugin", "fix", "getplugin", "soyop"],
+    "admin": ["ban", "kick", "warn", "mute", "unmute"],
+    "user": ["ping", "menu", "start", "funciones"]
+  },
+  "restrictions": {
+    "owner_only": ["saveplugin", "getplugin", "fix"],
+    "group_only": ["ban", "kick", "mute"],
+    "private_only": ["spotify", "ytmp3", "play"]
+  }
+}
