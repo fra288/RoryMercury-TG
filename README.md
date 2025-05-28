@@ -14,7 +14,7 @@
 ### **´✨ INFORMACIÓN´**
 
 <details>
-  <summary><b> InfoBot </b></summary>
+  <summary><b> 🚩 InfoBot </b></summary>
   
   > 🏵 Este bot es solo funcional en la plataforma de Telegram, si quieres instalar el bot edita la parte config.json y cambias el token al token del bot de telegram 🏵
   
@@ -109,16 +109,16 @@
 
 ---
 
-### ☁️ SKY ULTRA PLUS
-<a href="https://home.akirax.net"><img src="[https://qu.ax/zFzXF.png](https://qu.ax/pASbO.jpg)" height="125px"></a>
+### ☁️ AKIRAX HOSTING
+<a href="https://home.akirax.net"><img src="https://qu.ax/pASbO.jpg" height="125px"></a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
 - **Dashboard:** [`Aquí`](https://home.akirax.net)
 - **Panel:** [`Aquí`](https://console.akirax.net)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-- **Comunidad:** [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
+- **Comunidad:** [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
 - **Contacto(s):** 
 [`Memo Chiko`](https://wa.me/56967964633) [`Matias-Crypto`](https://wa.me/51953265359)
 
