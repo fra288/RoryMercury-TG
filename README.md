@@ -5,6 +5,7 @@
 ![Rory](https://qu.ax/snFtM.jpg)
 
 <p align="center">✨ Bot unicamente para Telegram.</p>
+</p>
 
 ---
 
