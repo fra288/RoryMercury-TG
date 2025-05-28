@@ -1,0 +1,22 @@
+{
+  "6768174513": {
+    "oro": 9999771,
+    "banco": 9999999,
+    "xp": 9948999,
+    "nivel": 105,
+    "trabajo": "Cazador",
+    "inventario": [
+      "espada_infinita",
+      "armadura_mitica",
+      "pocion_curacion_total",
+      "anillo_del_caos",
+      "vara_legendaria"
+    ],
+    "pareja": null,
+    "ultima_claim": "",
+    "ultima_daily": "",
+    "ultimo_work": "",
+    "\u00faltimo_work": "2025-05-25 21:41:35",
+    "suerte": 79
+  }
+}
