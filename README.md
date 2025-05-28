@@ -21,6 +21,13 @@
 </details>
 
 <details>
+  <summary><b> 🚩 Quieres usar un Ejemplo? </b></summary>
+  
+  > 🏵 Para usar un ejemplo del bot inicia el código con los comandos pasados, después ve a tu navegador favorito y entra a http://t.me/rorygithub_bot 🏵
+  
+</details>
+
+<details>
  <summary><b> 🚩 Donde Instalo El Bot? </b></summary>
 
 > 🌺 Para instalar el bot te invito que uses el hosting **`Akirax Hosting`** el hosting es 100% confiable que esperas para usarlo?, unete ya a nuestra comunidad!!! 🌸
