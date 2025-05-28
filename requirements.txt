@@ -1,0 +1,9 @@
+python-telegram-bot
+yt-dlp
+gitpython
+spotipy
+requests
+spotdl
+psutil
+python-dateutil
+ffmpeg-python
