@@ -1,0 +1,14 @@
+[
+  {
+    "id": 123456789,
+    "username": "usuario1",
+    "nombre": "Juan Pérez",
+    "última_actividad": "2025-05-24 18:30:00"
+  },
+  {
+    "id": 987654321,
+    "username": "usuario2",
+    "nombre": "Ana González",
+    "última_actividad": "2025-05-24 18:45:00"
+  }
+]
