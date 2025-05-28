@@ -2,7 +2,7 @@
 
 <h1 align="center">Rory Mercury - TG 🍀</h1>
 
-![Rory](https://qu.ax/snFtM.jpg)
+<p align="center"(https://qu.ax/snFtM.jpg)</p>
 
 <p align="center">✨ Bot unicamente para Telegram.</p>
 </p>
