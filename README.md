@@ -51,7 +51,7 @@
 
 > 🌺 El token puedes cambiarlo en el archivo config.json 🌸
 
-> 🌺 Si usas Termux, Windowa entre otros puedes clonar el repositorio y editar la parte config.json y coloca el token actual que te da el BotFarher en telegram. Y ya puedes instalar el Bot telegram. 🌸
+> 🌺 Si usas Windows u otros puedes clonar el repositorio y editar la parte config.json y coloca el token actual que te da el BotFarher en telegram. Y ya puedes instalar el Bot telegram. 🌸
 
 </details>
 
@@ -85,31 +85,7 @@
  <summary><b> 🦎 Comandos Termux</b></summary>
 
 ```bash
-> pkg update && pkg upgrade
-```
-
-```bash
-> pkg install python git
-```
-
-```bash
-> pip install --upgrade pip
-```
-
-```bash
-> git clone https://github.com/memochiko/RoryMercury-TG
-```
-
-```bash
-> cd RoryMercury-TG
-```
-
-```bash
-> pip install -r requirements.txt
-```
-
-```bash
-> python main.py
+> no hay soporte a termux negro
 ```
 
 </details>
