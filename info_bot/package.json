@@ -5,7 +5,7 @@
     "description": "Super Telegram Bot OnlyTelegram",
     "language": "Python",
     "bookshop": "python-telegram-bot",
-    "author": "Memo Chiko"
+    "author": "Fra28_8"
   },
   "dependencies": {
 	  "python-telegram-bot",
