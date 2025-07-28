@@ -14,7 +14,7 @@ class JadiBotManager:
 
         subbot_token = context.args[0]
 
-        await update.message.reply_text("🔄 Iniciando subbot...", reply_to_message_id=update.message.message_id)
+        await update.message.reply_text("🔄 Iniciando Sub Bot...", reply_to_message_id=update.message.message_id)
         asyncio.create_task(launch_subbot(subbot_token))
         await update.message.reply_text("✅ Subbot iniciado correctamente.", reply_to_message_id=update.message.message_id)
 
