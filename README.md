@@ -47,7 +47,7 @@
 
 > • TOKEN="Aquí Token que te da BotFather"
 
-[**`Aquí Link Archivo`**](https://github.com/memochiko/RoryMercury-TG/blob/main/config.jon)
+[**`Aquí Link Archivo`**](https://github.com/fra288/RoryMercury-TG/blob/main/config.jon)
 
 > 🌺 El token puedes cambiarlo en el archivo config.json 🌸
 
@@ -64,11 +64,11 @@
  <summary><b> 🦎 Comandos Windows</b></summary>
 
 ```bash
-> git clone https://github.com/memochiko/RoryMercury-TG
+> git clone https://github.com/fra288/RoryMercury-TG
 ```
 
 ```bash
-> cd YaemoriBot-TG
+> cd RoryMercury-TG
 ```
 
 ```bash
